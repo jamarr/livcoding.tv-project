@@ -52,3 +52,11 @@
 #submit {
     padding-left: 100px;
 }
+
+.subtext{
+	font-family: "lato", sans-serif;
+	font-style: normal;
+	font-size: 90px;
+	font-weight: 100;
+
+	}
